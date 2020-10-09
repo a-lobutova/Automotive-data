@@ -1,3 +1,5 @@
+ALTER TABLE make AUTO_INCREMENT = 1;
+
 INSERT INTO `make` (`title`) VALUES
 ('Acura'),
 ('Alfa Romeo'),
@@ -70,7 +72,8 @@ INSERT INTO `make` (`title`) VALUES
 ('Triumph'),
 ('Volkswagen'),
 ('Volvo'),
-('Yugo');
+('Yugo'),
+('Citroën');
 
 
 
